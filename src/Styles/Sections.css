@@ -314,13 +314,13 @@ border: 1px solid rgba(2, 45, 19, 0.3);
     padding: 1rem;
 }
 .review-container .review .overlay img{
-    height: 200px;
+    height: 180px;
     width: 150px;
     left: 0;
     object-fit: cover;
 }
 .review-container .review .overlay .data{
-    top: 300px;
+    top: 200px;
     position: absolute;
     height: 100%;
 }
@@ -458,4 +458,5 @@ footer .left .logo p{
     }
 
 }
+
 
