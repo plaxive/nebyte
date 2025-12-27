@@ -161,7 +161,7 @@
 }
 .pain .img img{
     width: 100%;
-    height: 500px;
+    height: 700px;
     object-fit: cover;
     border-radius: var(--radius-md);
 }
@@ -254,6 +254,7 @@ border: 1px solid rgba(2, 45, 19, 0.3);
     width: 100%;
     height: 600px;
     object-fit: cover;
+    border-radius: var(--radius-md);
 }
 .business .text{
     position: absolute;
@@ -295,7 +296,7 @@ border: 1px solid rgba(2, 45, 19, 0.3);
 .review-container .review{
     width: 100%;
     position: relative;
-    height: 500px;
+    height: 700px;
     border-radius: var(--radius-md);
 }
 .review img{
@@ -314,13 +315,13 @@ border: 1px solid rgba(2, 45, 19, 0.3);
     padding: 1rem;
 }
 .review-container .review .overlay img{
-    height: 180px;
+    height: 200px;
     width: 150px;
     left: 0;
     object-fit: cover;
 }
 .review-container .review .overlay .data{
-    top: 200px;
+    top: 400px;
     position: absolute;
     height: 100%;
 }
@@ -456,7 +457,4 @@ footer .left .logo p{
     footer .left .logo h3 {
     font-size: 40px;
     }
-
 }
-
-
